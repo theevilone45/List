@@ -105,10 +105,10 @@ public:
         return result;
     }
 
-    /*void PushAtIndex(T value, size_t index)
+    void PushAtIndex(T value, size_t index)
     {
-
-    }*/
+        cout << "NOT IMPLEMENTED" << endl;
+    }
 
     void Display()
     {
